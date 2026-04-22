@@ -1,11 +1,8 @@
 **Project Title**
-
-[Enter your project name here]
-
+OIIA- Reflex testing game
 **📌 Project Overview**
 
-[Provide a short description of your project]
-
+A pop culture reference brought to life through a rave visualizer reflex game where you get scored for your accuracy!
 
 **📂 Repository Structure**
 1. Electronics Details
@@ -14,18 +11,5 @@
 4. Project Documents
 5. Media
 
-**⚙️ How to Navigate This Repository**
-
-Electronics Details → Circuit, components justification
-
-Mechanical Details → Sketches, CAD, and fabrication
-
-Software Details → Code, logic, and implementation
-
-Project Documents → Design thinking, planning, testing
-
-Media → Weekly progress and final output
-
-
 **👥 Team Members**
-[Name]
+Medha Nair, Asmita Wankhede
